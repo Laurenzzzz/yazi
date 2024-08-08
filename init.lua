@@ -1,0 +1,5 @@
+require("starship"):setup()
+require("simple-status"):setup()
+require("full-border"):setup()
+require("archivemount"):setup()
+require("eza-preview"):setup()
